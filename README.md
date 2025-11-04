@@ -52,10 +52,11 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-
 <img width="1128" height="223" alt="Screenshot 2025-11-04 152235" src="https://github.com/user-attachments/assets/3319bf7e-f383-4139-a258-7bc57b04ce2c" />
 
 <img width="577" height="127" alt="Screenshot 2025-11-04 152313" src="https://github.com/user-attachments/assets/690aed31-a267-4193-839a-74281d1a2bd1" />
+
+
 
 <img width="360" height="116" alt="Screenshot 2025-11-04 152433" src="https://github.com/user-attachments/assets/e8a15933-72bf-4dcf-b936-08c2887f9045" />
 
